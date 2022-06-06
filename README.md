@@ -7,5 +7,4 @@ JetBrains Academy Java Backend Developer Track, 360 topics, 4 projects.
 Skilled in Java, C++, Python, SQL.
 
 
-"The computing scientist's main challenge is not to get confused by the complexities of his own making."
-- Edsger W. Dijkstra
+"The computing scientist's main challenge is not to get confused by the complexities of his own making." - Edsger W. Dijkstra
