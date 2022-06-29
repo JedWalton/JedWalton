@@ -4,7 +4,7 @@ With meticulous intent and fervour, I strive to deepen proficiency in programmin
 
 Consistent, deliberate practice enables the development of increasingly deep understanding of Java and other programming languages, algorithms, technologies, paradigms, concepts, tools and rigorous software engineering best practices. 
 
-It is both my mission to converge on producing at an elite level in terms of both Quality and Speed.
+I contiually hone the ability to produce at an elite level in terms of both Quality and Speed.
 
 "The computing scientist's main challenge is not to get confused by the complexities of his own making." - Edsger W. Dijkstra
 
