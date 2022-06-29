@@ -4,7 +4,7 @@ With fervour and meticulous intent, I strive to deepen proficiency in computer s
 
 Consistent, deliberate practice enables the development of increasingly deep understanding of programming languages, algorithms, technologies, paradigms, concepts, tools and rigorous software engineering best practices. 
 
-I strive to hone the ability to produce at an elite level in terms of both Quality and Speed.
+I strive to produce at an elite level in terms of both Quality and Speed.
 
 "The computing scientist's main challenge is not to get confused by the complexities of his own making." - Edsger W. Dijkstra
 
