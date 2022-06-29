@@ -4,6 +4,8 @@ I strive to produce at an elite level in terms of both Quality and Speed and thu
 
 To maximise the benefits of the practice, I utilize organisational software to assist in dissecting macro goals into individual tasks to schedule in my central calendar to ruthlessly execute logging the progress. It is this systematic approach that optimizes for time and focus, maximizing adherence to achieve well-defined, documented and quantifiable objectives.
 
+If you're interested in forming win-win relationships,
+Please drop me an email at: jedwaltonmbcs@gmail.com
 
 "The computing scientist's main challenge is not to get confused by the complexities of his own making." - Edsger W. Dijkstra
 
