@@ -2,7 +2,7 @@ The enlightening, immersive, challenging and ultimately deeply satisfying experi
 
 With meticulous intent and fervour, I strive to deepen proficiency in programming and problem-solving. To maximise the benefits, I utilize organisational software to assist in dissecting macro goals into individual tasks to schedule in my central calendar to ruthlessly execute and document progress. It is this systematic approach that optimizes for time and focus, maximizing adherence to achieve well-documented and quantifiable progress towards concrete objectives.
 
-Consistent, deliberate practice enables the development of increasingly deep understanding of Java and other programming languages, algorithms, technologies, paradigms, concepts, tools and rigorous software engineering best practices. 
+Consistent, deliberate practice enables the development of increasingly deep understanding of programming languages, algorithms, technologies, paradigms, concepts, tools and rigorous software engineering best practices. 
 
 I strive to hone the ability to produce at an elite level in terms of both Quality and Speed.
 
